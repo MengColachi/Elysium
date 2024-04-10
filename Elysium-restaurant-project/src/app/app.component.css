@@ -1,0 +1,15 @@
+:host {
+    font-family: Helvetica, Arial;
+}
+.container{
+    position: fixed; 
+    display: flex;
+}
+
+
+.footer {
+    position: fixed; 
+    bottom: 0;
+    padding: 10px 0;
+    text-align: center;
+}
