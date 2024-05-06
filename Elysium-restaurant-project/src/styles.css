@@ -1,5 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #d5edd5; /* Replace with your desired color */
+}
+
+
 .Logo-image{
     width: 100px;
     height: auto;
+    border-radius: 48%;
 }
